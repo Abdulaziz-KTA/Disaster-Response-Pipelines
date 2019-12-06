@@ -24,6 +24,9 @@
 
 <b> I am ues <a href="https://www.anaconda.com/">Anaconda</a>, Anaconda command line and <a href="https://anaconda.org/anaconda/spyder">Spyder(3.3.6)</a>,all Libraries you can find in Environments Anaconda Navigator</b>
 
+![](1.PNG)
+![](2.PNG)
+![](3.PNG)
 
 ## Acknowledgements
 This project was prepared as part of the <a href="https://www.udacity.com/">Udacity</a> Data Scientist nanodegree programme. The data was provided by <a href="https://www.figure-eight.com/">Figure Eight</a>.
