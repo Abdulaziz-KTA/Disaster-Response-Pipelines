@@ -11,7 +11,7 @@
 <li>Models
   <ol>
   <li>train_classifier.py: includes the code necessary to load data, transform it using natural language processing, run a machine learning model using GridSearchCV and train it. Basic usage is python train_classifier.py DATABASE_DIRECTORY SAVENAME_FOR_MODEL
-  <li>classifier.pkl : after training
+  <li>classifier.pkl : after training can not upload because 26MB and insert inside zip has become 8MB 
   </ol>
 <li>App
   <ol>
